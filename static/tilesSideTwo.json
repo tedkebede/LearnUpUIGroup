@@ -1,0 +1,62 @@
+{
+  "sidetwo": {
+    "prefixes": [
+      { "text": "un", "color": "green" },
+      { "text": "in", "color": "green" },
+      { "text": "ex", "color": "green" },
+      { "text": "non", "color": "green" },
+      { "text": "mis", "color": "green" },
+      { "text": "dis", "color": "green" },
+      { "text": "de", "color": "green" },
+      { "text": "re", "color": "green" },
+      { "text": "pre", "color": "green" },
+      { "text": "pro", "color": "green" },
+      { "text": "sub", "color": "green" },
+      { "text": "over", "color": "green" },
+      { "text": "trans", "color": "green" },
+      { "text": "inter", "color": "green" },
+      { "text": "anti", "color": "green" }
+    ],
+    "endingsright": [
+      { "text": "tle", "color": "red" },
+      { "text": "able", "color": "red" },
+      { "text": "ible", "color": "red" },
+      { "text": "tion", "color": "red" },
+      { "text": "ation", "color": "red" },
+      { "text": "sion", "color": "red" },
+      { "text": "sive", "color": "red" },
+      { "text": "tive", "color": "red" },
+      { "text": "sure", "color": "red" },
+      { "text": "ture", "color": "red" },
+      { "text": "ant", "color": "red" }
+    ],
+    "endingsbottom": [
+      { "text": "ate", "color": "red" },
+      { "text": "age", "color": "red" },
+      { "text": "ance", "color": "red" }
+    ],
+    "roots": [
+      { "text": "cept", "color": "white" },
+      { "text": "spect", "color": "white" },
+      { "text": "scribe", "color": "white" },
+      { "text": "script", "color": "white" },
+      { "text": "struct", "color": "white" },
+      { "text": "flect", "color": "white" },
+      { "text": "tract", "color": "white" },
+      { "text": "fer", "color": "white" },
+      { "text": "form", "color": "white" },
+      { "text": "tend", "color": "white" },
+      { "text": "duc", "color": "white" },
+      { "text": "dict", "color": "white" },
+      { "text": "fect", "color": "white" },
+      { "text": "port", "color": "white" },
+      { "text": "mit", "color": "white" },
+      { "text": "miss", "color": "white" },
+      { "text": "rupt", "color": "white" },
+      { "text": "sist", "color": "white" },
+      { "text": "ject", "color": "white" },
+      { "text": "vert", "color": "white" },
+      { "text": "pose", "color": "white" }
+    ]
+  }
+}

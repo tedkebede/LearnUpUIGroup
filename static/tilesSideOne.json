@@ -1,0 +1,391 @@
+{
+    "sideone": {
+    "starstop": [
+        {
+            "text": "b",
+            "color": "white"
+        },
+        {
+            "text": "c",
+            "color": "white"
+        },
+        {
+            "text": "d",
+            "color": "white"
+        },
+        {
+            "text": "f",
+            "color": "white"
+        },
+        {
+            "text": "ph",
+            "color": "white"
+        },
+        {
+            "text": "g",
+            "color": "white"
+        },
+        {
+            "text": "h",
+            "color": "white"
+        },
+        {
+            "text": "j",
+            "color": "white"
+        },
+        {
+            "text": "k",
+            "color": "white"
+        },
+        {
+            "text": "l",
+            "color": "white"
+        },
+        {
+            "text": "m",
+            "color": "white"
+        },
+        {
+            "text": "n",
+            "color": "white"
+        },
+        {
+            "text": "kn",
+            "color": "white"
+        },
+        {
+            "text": "p",
+            "color": "white"
+        },
+        {
+            "text": "r",
+            "color": "white"
+        },
+        {
+            "text": "wr",
+            "color": "white"
+        },
+        {
+            "text": "s",
+            "color": "white"
+        },
+        {
+            "text": "t",
+            "color": "white"
+        },
+        {
+            "text": "v",
+            "color": "white"
+        },
+        {
+            "text": "w",
+            "color": "white"
+        },
+        {
+            "text": "x",
+            "color": "white"
+        },
+        {
+            "text": "y",
+            "color": "white"
+        },
+        {
+            "text": "z",
+            "color": "white"
+        },
+        {
+            "text": "ch",
+            "color": "white"
+        },
+        {
+            "text": "sh",
+            "color": "white"
+        },
+        {
+            "text": "th",
+            "color": "white"
+        },
+        {
+            "text": "wh",
+            "color": "white"
+        },
+        {
+            "text": "qu",
+            "color": "white"
+        },
+        {
+            "text": "ng",
+            "color": "white"
+        },
+        {
+            "text": "nk",
+            "color": "white"
+		}
+    ],
+    "starsleft": [
+        {
+            "text": "un",
+            "color": "white"
+        },
+        {
+            "text": "re",
+            "color": "white"
+        },
+        {
+            "text": "in",
+            "color": "white"
+        },
+        {
+            "text": "dis",
+            "color": "white"
+        }
+    ],
+    "starsright": [
+        {
+            "text": "f",
+            "color": "white"
+        },
+        {
+            "text": "l",
+            "color": "white"
+        },
+        {
+            "text": "s",
+            "color": "white"
+        },
+        {
+            "text": "k",
+            "color": "white"
+        },
+        {
+            "text": "ch",
+            "color": "white"
+        },
+        {
+            "text": "ge",
+            "color": "white"
+        }
+
+	],
+	"starsright2": [
+		{
+            "text": "ff",
+            "color": "white"
+        },
+		{
+            "text": "ll",
+            "color": "white"
+        },
+		{
+            "text": "ss",
+            "color": "white"
+        },
+		{
+            "text": "ck",
+            "color": "white"
+        },
+		{
+            "text": "tch",
+            "color": "white"
+        },
+        {
+            "text": "dge",
+            "color": "white"
+		}
+    ],
+    "starsbottom": [
+        {
+            "text": "s",
+            "color": "white"
+        },
+        {
+            "text": "es",
+            "color": "white"
+        },
+        {
+            "text": "ing",
+            "color": "white"
+        },
+        {
+            "text": "ed",
+            "color": "white"
+        },
+        {
+            "text": "er",
+            "color": "white"
+        },
+        {
+            "text": "est",
+            "color": "white"
+        },
+        {
+            "text": "en",
+            "color": "white"
+        },
+        {
+            "text": "y",
+            "color": "white"
+        },
+        {
+            "text": "ful",
+            "color": "white"
+        },
+        {
+            "text": "ly",
+            "color": "white"
+        },
+        {
+            "text": "less",
+            "color": "white"
+        },
+        {
+            "text": "ness",
+            "color": "white"
+        },
+        {
+            "text": "ment",
+            "color": "white"
+        }
+    ],
+    "dipper": [
+        {
+            "text": "i",
+            "color": "green"
+        },
+        {
+            "text": "e",
+            "color": "green"
+        },
+        {
+            "text": "a",
+            "color": "green"
+        },
+        {
+            "text": "u",
+            "color": "green"
+        },
+        {
+            "text": "o",
+            "color": "green"
+        }
+	],
+	"dipper2": [
+        {
+            "text": "oy",
+            "color": "green"
+        },
+        {
+            "text": "oi",
+            "color": "green"
+        },
+        {
+            "text": "ou",
+            "color": "yellow"
+        },
+        {
+            "text": "ow",
+            "color": "yellow"
+        },
+        {
+            "text": "oo",
+            "color": "green"
+		},
+		{
+            "text": "au",
+            "color": "green"
+        },
+        {
+            "text": "aw",
+            "color": "green"
+        }
+	],
+    "crescent": [
+        {
+            "text": "or",
+            "color": "green"
+        },
+        {
+            "text": "ar",
+            "color": "green"
+        },
+        {
+            "text": "ur",
+            "color": "green"
+        },
+        {
+            "text": "ir",
+            "color": "green"
+        },
+        {
+            "text": "er",
+            "color": "green"
+        }
+    ],
+    "earth": [
+		{
+            "text": "ea",
+            "color": "yellow"
+        },
+        {
+            "text": "ee",
+            "color": "green"
+        },
+        {
+            "text": "ai",
+            "color": "green"
+        },
+        {
+            "text": "ay",
+            "color": "green"
+        },
+        {
+            "text": "oa",
+            "color": "green"
+        },
+        {
+            "text": "oe",
+            "color": "green"
+        },
+        {
+            "text": "ue",
+            "color": "green"
+        },
+        {
+            "text": "ui",
+            "color": "green"
+		},
+		{
+            "text": "igh",
+            "color": "yellow"
+		},
+		{
+            "text": "y",
+            "color": "yellow"
+		},
+		{
+            "text": "ei",
+            "color": "red"
+		},
+		{
+            "text": "ey",
+            "color": "red"
+		},
+		{
+            "text": "eigh",
+            "color": "red"
+		},
+		{
+            "text": "eu",
+            "color": "red"
+        },
+        {
+            "text": "ew",
+            "color": "red"
+        },
+		{
+            "text": "ie",
+            "color": "red"
+        }
+    ]
+}
+}
